@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "277395179069",
+    "firebase_url": "https://timepass-1fa61.firebaseio.com",
+    "project_id": "timepass-1fa61",
+    "storage_bucket": "timepass-1fa61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277395179069:android:4820e22f9f8a7f1e",
+        "android_client_info": {
+          "package_name": "com.example.kankan.timepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277395179069-lo0agar2aat8dsbddcgnt3jpai00tb64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kankan.timepass",
+            "certificate_hash": "d7808154700791f7bcf3931b68a3aa62631b04a6"
+          }
+        },
+        {
+          "client_id": "277395179069-02p2obqfgv2ui3e6q6behtml9ldetted.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "277395179069-02p2obqfgv2ui3e6q6behtml9ldetted.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2x28v8GA2rQaW6xFSsxFnu5HO8JpZvVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277395179069-02p2obqfgv2ui3e6q6behtml9ldetted.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
